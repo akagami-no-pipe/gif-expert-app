@@ -1,5 +1,5 @@
-Para instalar los modulos:
+# Para instalar los modulos:
 npm install
 
-Para correr el proyecto:
+# Para correr el proyecto:
 npm run dev
