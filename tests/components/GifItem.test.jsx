@@ -26,9 +26,4 @@ describe('Pruebas del componente GifItem', () => {
         expect(container).toMatchSnapshot();
     });
 
-    test('Debe mostrar la imaagen con ell url y el alt indicado', () => { 
-        render(<GifItem url={url} title={title}/>);
-        // screen.debug();
-
-    });
 });
